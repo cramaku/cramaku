@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... code?
 - 📫 How to reach me ... uhhh, through code?
 - 😄 Pronouns: ... he / hee
-- ⚡ Fun fact: ... caffine code
+- ⚡ Fun fact: ... code?
 
 <!---
 cramaku/cramaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
