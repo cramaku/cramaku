@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @cramaku
 - 👀 I’m interested in ... code?
 - 🌱 I’m currently learning ... code?
-- 💞️ I’m looking to collaborate on ... code?
+- 💞️ I’m looking to collaborate on ... well... not really looking to collab.
 - 📫 How to reach me ... uhhh, through code?
 - 😄 Pronouns: ... he / hee
-- ⚡ Fun fact: ... code?
+- ⚡ Fun fact: ... after a couple of years, I'm still a beginner!
 
 <!---
 cramaku/cramaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
